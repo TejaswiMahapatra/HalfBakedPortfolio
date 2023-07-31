@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title>My skills:</title>   
+    <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <h3>My Skills:</h3>
+            <ol>
+                <li>Web Development</li>
+                <li>Management</li>
+                <!--<li>Cognitive Thinking Ability</li>-->
+                <!--<li>Spatial Awarness</li>-->
+                <!--<li>Leadership Quality</li>-->
+                <li>Content Writing</li>
+            </ol>
+    </body>
+</html>
